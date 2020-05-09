@@ -23358,5 +23358,3035 @@
     "courseId": "1007051",
     "courseCode": "904406",
     "courseName": "ORAL  HARD  TISSUE  DISEASES  AND  DISORDERS  III: ORAL  AND  MAXILLOFACIAL  SURGERY"
+  },
+  {
+    "courseId": "1004859",
+    "courseCode": "102210",
+    "courseName": "INORGANIC CHEMISTRY I"
+  },
+  {
+    "courseId": "1004861",
+    "courseCode": "102310",
+    "courseName": "ADVANCED INORGANIC CHEMISTRY"
+  },
+  {
+    "courseId": "1002721",
+    "courseCode": "102861",
+    "courseName": "SELECTED TOPICS IN APPLIED CHEMISTRY I"
+  },
+  {
+    "courseId": "1002722",
+    "courseCode": "102862",
+    "courseName": "SELECTED TOPICS IN APPLIED CHEMISTRY II"
+  },
+  {
+    "courseId": "1001595",
+    "courseCode": "103106",
+    "courseName": "BIOSTATISTICS"
+  },
+  {
+    "courseId": "1004448",
+    "courseCode": "103108",
+    "courseName": "CALCULUS FOR HEALTH SCIENCE"
+  },
+  {
+    "courseId": "1006296",
+    "courseCode": "103622",
+    "courseName": "MEASURE  THEORY"
+  },
+  {
+    "courseId": "1006296",
+    "courseCode": "103622",
+    "courseName": "MEASURE  THEORY"
+  },
+  {
+    "courseId": "1008781",
+    "courseCode": "103622",
+    "courseName": "MEASURE  THEORY"
+  },
+  {
+    "courseId": "1006983",
+    "courseCode": "104362",
+    "courseName": "ANIMAL  BEHAVIOR"
+  },
+  {
+    "courseId": "1006983",
+    "courseCode": "104362",
+    "courseName": "ANIMAL  BEHAVIOR"
+  },
+  {
+    "courseId": "1004992",
+    "courseCode": "104603",
+    "courseName": "CELL BIOLOGY"
+  },
+  {
+    "courseId": "1002361",
+    "courseCode": "104731",
+    "courseName": "ENVIRONMENTAL PLANT PHYSIOLOGY"
+  },
+  {
+    "courseId": "1005021",
+    "courseCode": "104731",
+    "courseName": "ENVIRONMENTAL PLANT PHYSIOLOGY"
+  },
+  {
+    "courseId": "1005010",
+    "courseCode": "104819",
+    "courseName": "ECOLOGICAL STATISTIC AND MODELING"
+  },
+  {
+    "courseId": "1005030",
+    "courseCode": "104852",
+    "courseName": "PRINCIPLES IN MOLECULAR BIOLOGY TECHNIQUES"
+  },
+  {
+    "courseId": "1005031",
+    "courseCode": "104853",
+    "courseName": "CELLULAR SIGNAL TRANSDUCTION"
+  },
+  {
+    "courseId": "1004923",
+    "courseCode": "105322",
+    "courseName": "QUANTUM MECHANICS II"
+  },
+  {
+    "courseId": "1006966",
+    "courseCode": "105331",
+    "courseName": "INTRODUCTION  TO  RELATIVITY"
+  },
+  {
+    "courseId": "1001197",
+    "courseCode": "105752",
+    "courseName": "CONDENSED MATTER PHYSICS II"
+  },
+  {
+    "courseId": "1001181",
+    "courseCode": "105753",
+    "courseName": "CRYSTAL GROWTH"
+  },
+  {
+    "courseId": "1005334",
+    "courseCode": "105764",
+    "courseName": "ELECTRONIC STRUCTURES OF SOLID SURFACE AND NANOSCALE MATERIALS"
+  },
+  {
+    "courseId": "1001188",
+    "courseCode": "105765",
+    "courseName": "ATOMIC AND MOLECULAR SPECTROSCOPY"
+  },
+  {
+    "courseId": "1005368",
+    "courseCode": "105771",
+    "courseName": "APPLICATION OF GRID AND CLOUD COMPUTATION IN PARTICLE PHYSICS"
+  },
+  {
+    "courseId": "1005382",
+    "courseCode": "105914",
+    "courseName": "SENSOR AND TRANSDUCER TECHNOLOGY"
+  },
+  {
+    "courseId": "106611",
+    "courseCode": "106611",
+    "courseName": "GEOGRAPHIC INFORMATION SYSTEM"
+  },
+  {
+    "courseId": "1006020",
+    "courseCode": "106772",
+    "courseName": "SPECIAL  TOPICS  IN  GEOINFORMATICS  RESEARCH"
+  },
+  {
+    "courseId": "108740",
+    "courseCode": "108740",
+    "courseName": "MEDICAL MICROBIOLOGY"
+  },
+  {
+    "courseId": "108781",
+    "courseCode": "108781",
+    "courseName": "SEMINAR I"
+  },
+  {
+    "courseId": "1006151",
+    "courseCode": "109701",
+    "courseName": "BIOCHEMICAL  SEPARATION  AND  CHARACTERIZATION  METHODS"
+  },
+  {
+    "courseId": "1006155",
+    "courseCode": "109705",
+    "courseName": "BIOINFORMATICS  AND  COMPUTER  USAGE"
+  },
+  {
+    "courseId": "1006155",
+    "courseCode": "109705",
+    "courseName": "BIOINFORMATICS  AND  COMPUTER  USAGE"
+  },
+  {
+    "courseId": "1000294",
+    "courseCode": "109775",
+    "courseName": "SELECTED RESEARCH TECHNIQUES"
+  },
+  {
+    "courseId": "1000294",
+    "courseCode": "109775",
+    "courseName": "SELECTED RESEARCH TECHNIQUES"
+  },
+  {
+    "courseId": "1006519",
+    "courseCode": "114101",
+    "courseName": "INTRODUCTION  TO  SPORTS  SCIENCE  AND  TECHNOLOGY"
+  },
+  {
+    "courseId": "1001526",
+    "courseCode": "114201",
+    "courseName": "BASIC ANATOMY AND PHYSIOLOGY II"
+  },
+  {
+    "courseId": "1006684",
+    "courseCode": "114323",
+    "courseName": "SPORTS INJURIES"
+  },
+  {
+    "courseId": "1006685",
+    "courseCode": "114327",
+    "courseName": "NUTRITION FOR HEALTH AND PREVENTION"
+  },
+  {
+    "courseId": "1001556",
+    "courseCode": "114491",
+    "courseName": "COOPERATIVE EDUCATION"
+  },
+  {
+    "courseId": "1002452",
+    "courseCode": "115729",
+    "courseName": "RESPIRATORY SYSTEM IN BIOMEDICAL SCIENCES"
+  },
+  {
+    "courseId": "1003169",
+    "courseCode": "202354",
+    "courseName": "PHILOSOPHY OF EDUCATION AND WORKING"
+  },
+  {
+    "courseId": "1003200",
+    "courseCode": "204302",
+    "courseName": "TECHNOLOGY OF MASS MEDIA PRODUCTION II"
+  },
+  {
+    "courseId": "1003200",
+    "courseCode": "204302",
+    "courseName": "TECHNOLOGY OF MASS MEDIA PRODUCTION II"
+  },
+  {
+    "courseId": "204309",
+    "courseCode": "204309",
+    "courseName": "INFORMATION SYSTEM FOR BUSINESS"
+  },
+  {
+    "courseId": "204319",
+    "courseCode": "204319",
+    "courseName": "ECONOMICS OF INFORMATION"
+  },
+  {
+    "courseId": "1005283",
+    "courseCode": "204360",
+    "courseName": "ENTERPRISE APPLICATION DEVELOPMENT"
+  },
+  {
+    "courseId": "1005301",
+    "courseCode": "204373",
+    "courseName": "METADATA"
+  },
+  {
+    "courseId": "1001151",
+    "courseCode": "204425",
+    "courseName": "MEDIA ANALYSIS AND CRITICISM"
+  },
+  {
+    "courseId": "1002546",
+    "courseCode": "213641",
+    "courseName": "DOCTORAL THESIS"
+  },
+  {
+    "courseId": "1003390",
+    "courseCode": "215252",
+    "courseName": "INVENTORY AND DEMAND MANAGEMENT"
+  },
+  {
+    "courseId": "1003365",
+    "courseCode": "215301",
+    "courseName": "BUSINESS ETHICS"
+  },
+  {
+    "courseId": "1003372",
+    "courseCode": "215333",
+    "courseName": "MARKETING RESEARCH"
+  },
+  {
+    "courseId": "1003391",
+    "courseCode": "215351",
+    "courseName": "TRANSPORTATION MANAGEMENT"
+  },
+  {
+    "courseId": "1008520",
+    "courseCode": "233501",
+    "courseName": "ACADEMIC  STUDY  SKILLS"
+  },
+  {
+    "courseId": "1008521",
+    "courseCode": "233502",
+    "courseName": "ACADEMIC  READING  IN  ENGLISH"
+  },
+  {
+    "courseId": "1008522",
+    "courseCode": "233503",
+    "courseName": "ACADEMIC  WRITING"
+  },
+  {
+    "courseId": "1008523",
+    "courseCode": "233521",
+    "courseName": "APPLICATIONS  OF  TECHNOLOGY  IN  SECOND  LANGUAGE  LEARNING"
+  },
+  {
+    "courseId": "303320",
+    "courseCode": "303320",
+    "courseName": "PRINCIPLES OF ANIMAL PRODUCTION"
+  },
+  {
+    "courseId": "303386",
+    "courseCode": "303386",
+    "courseName": "FARM PRACTICUM : CATTLE"
+  },
+  {
+    "courseId": "1001057",
+    "courseCode": "303484",
+    "courseName": "SEMINAR"
+  },
+  {
+    "courseId": "1004692",
+    "courseCode": "312251",
+    "courseName": "INSECTS, ANIMAL PLANT PESTS AND THEIR CONTROL"
+  },
+  {
+    "courseId": "1004698",
+    "courseCode": "312304",
+    "courseName": "COMMERCIAL CROP PRODUCTION PROJECT II"
+  },
+  {
+    "courseId": "1004698",
+    "courseCode": "312304",
+    "courseName": "COMMERCIAL CROP PRODUCTION PROJECT II"
+  },
+  {
+    "courseId": "1004698",
+    "courseCode": "312304",
+    "courseName": "COMMERCIAL CROP PRODUCTION PROJECT II"
+  },
+  {
+    "courseId": "1004687",
+    "courseCode": "312314",
+    "courseName": "PLANT PROPAGATION"
+  },
+  {
+    "courseId": "1004687",
+    "courseCode": "312314",
+    "courseName": "PLANT PROPAGATION"
+  },
+  {
+    "courseId": "1004689",
+    "courseCode": "312316",
+    "courseName": "SEED TECHNOLOGY"
+  },
+  {
+    "courseId": "1004689",
+    "courseCode": "312316",
+    "courseName": "SEED TECHNOLOGY"
+  },
+  {
+    "courseId": "1004689",
+    "courseCode": "312316",
+    "courseName": "SEED TECHNOLOGY"
+  },
+  {
+    "courseId": "1004721",
+    "courseCode": "312341",
+    "courseName": "FERTILIZERS AND SOIL FERTILITY"
+  },
+  {
+    "courseId": "1004725",
+    "courseCode": "312355",
+    "courseName": "PLANT DISEASE OF ECONOMIC CROPS"
+  },
+  {
+    "courseId": "1004694",
+    "courseCode": "312361",
+    "courseName": "WEEDS AND THEIR CONTROL"
+  },
+  {
+    "courseId": "1004699",
+    "courseCode": "312461",
+    "courseName": "GOOD AGRICULTURAL PRACTICES FOR CROP PRODUCTION"
+  },
+  {
+    "courseId": "1004616",
+    "courseCode": "313351",
+    "courseName": "LIVESTOCK HOUSING AND ANIMAL WASTE MANAGEMENT"
+  },
+  {
+    "courseId": "1004616",
+    "courseCode": "313351",
+    "courseName": "LIVESTOCK HOUSING AND ANIMAL WASTE MANAGEMENT"
+  },
+  {
+    "courseId": "1004632",
+    "courseCode": "313442",
+    "courseName": "APPLIED AQUATIC ANIMAL PRODUCTION"
+  },
+  {
+    "courseId": "1004636",
+    "courseCode": "313455",
+    "courseName": "INFORMATION TECHNOLOGY IN ANIMAL SCIENCE"
+  },
+  {
+    "courseId": "1001897",
+    "courseCode": "313870",
+    "courseName": "TOPICS IN ANIMAL PRODUCTION TECHNOLOGY I"
+  },
+  {
+    "courseId": "1001932",
+    "courseCode": "313881",
+    "courseName": "M.SC. SEMINAR I"
+  },
+  {
+    "courseId": "1001933",
+    "courseCode": "313882",
+    "courseName": "M.SC. SEMINAR II"
+  },
+  {
+    "courseId": "1001934",
+    "courseCode": "313883",
+    "courseName": "M.SC. SEMINAR III"
+  },
+  {
+    "courseId": "1001935",
+    "courseCode": "313884",
+    "courseName": "M.SC. SEMINAR IV"
+  },
+  {
+    "courseId": "1001939",
+    "courseCode": "313892",
+    "courseName": "M.SC. THESIS (SCHEME A2)"
+  },
+  {
+    "courseId": "1001898",
+    "courseCode": "313981",
+    "courseName": "PH.D. SEMINAR I"
+  },
+  {
+    "courseId": "1001940",
+    "courseCode": "313982",
+    "courseName": "PH.D. SEMINAR II"
+  },
+  {
+    "courseId": "1001941",
+    "courseCode": "313983",
+    "courseName": "PH.D. SEMINAR III"
+  },
+  {
+    "courseId": "1001942",
+    "courseCode": "313984",
+    "courseName": "PH.D. SEMINAR IV"
+  },
+  {
+    "courseId": "1001943",
+    "courseCode": "313985",
+    "courseName": "PH.D. SEMINAR V"
+  },
+  {
+    "courseId": "1001944",
+    "courseCode": "313986",
+    "courseName": "PH.D. SEMINAR VI"
+  },
+  {
+    "courseId": "1001945",
+    "courseCode": "313987",
+    "courseName": "PH.D. SEMINAR VII"
+  },
+  {
+    "courseId": "1001946",
+    "courseCode": "313988",
+    "courseName": "PH.D. SEMINAR VIII"
+  },
+  {
+    "courseId": "1004793",
+    "courseCode": "314784",
+    "courseName": "SEMINAR 4 (FOR PH.D. SCHEME 2.1 AND 2.2)"
+  },
+  {
+    "courseId": "1001887",
+    "courseCode": "315331",
+    "courseName": "FOOD PROCESSING II"
+  },
+  {
+    "courseId": "1007958",
+    "courseCode": "322355",
+    "courseName": "PLANT  DISEASE  OF  ECONOMIC  CROPS"
+  },
+  {
+    "courseId": "1006304",
+    "courseCode": "322571",
+    "courseName": "EXPERIMENTAL  DESIGNS  AND  ANALYSIS"
+  },
+  {
+    "courseId": "1006513",
+    "courseCode": "322573",
+    "courseName": "ADVANCED  CROP  SCIENCE"
+  },
+  {
+    "courseId": "1006468",
+    "courseCode": "322616",
+    "courseName": "MOLECULAR  PLANT  DEVELOPMENT"
+  },
+  {
+    "courseId": "1006485",
+    "courseCode": "322641",
+    "courseName": "SEED  PATHOLOGY"
+  },
+  {
+    "courseId": "1006287",
+    "courseCode": "322647",
+    "courseName": "INDIVIDUAL  STUDY  IN  PLANT  PATHOLOGY"
+  },
+  {
+    "courseId": "1006511",
+    "courseCode": "322665",
+    "courseName": "INDIVIDUAL  STUDY  IN  SEED  TECHNOLOGY"
+  },
+  {
+    "courseId": "1006277",
+    "courseCode": "323651",
+    "courseName": "ADVANCED  MONOGASTRIC  ANIMAL  NUTRITION"
+  },
+  {
+    "courseId": "1006299",
+    "courseCode": "323821",
+    "courseName": "M.SC. SEMINAR I"
+  },
+  {
+    "courseId": "1006389",
+    "courseCode": "323822",
+    "courseName": "M.SC. SEMINAR II"
+  },
+  {
+    "courseId": "1006588",
+    "courseCode": "323834",
+    "courseName": "BREEDING  FOR  ANIMAL  PRODUCTION  EFFICIENCY"
+  },
+  {
+    "courseId": "1006589",
+    "courseCode": "323835",
+    "courseName": "ANIMAL  BREEDING  STRATEGIES"
+  },
+  {
+    "courseId": "1005124",
+    "courseCode": "325451",
+    "courseName": "FOOD MARKETING"
+  },
+  {
+    "courseId": "1005469",
+    "courseCode": "325551",
+    "courseName": "STATISTICS  FOR  AGRO-INDUSTRY  RESEARCH"
+  },
+  {
+    "courseId": "1009613",
+    "courseCode": "332641",
+    "courseName": "SEED  PATHOLOGY"
+  },
+  {
+    "courseId": "1009618",
+    "courseCode": "332655",
+    "courseName": "INDIVIDUAL  STUDY  IN  SOIL  SCIENCE"
+  },
+  {
+    "courseId": "1008565",
+    "courseCode": "333651",
+    "courseName": "ADVANCED  MONOGASTRIC  ANIMAL  NUTRITION"
+  },
+  {
+    "courseId": "1008974",
+    "courseCode": "333836",
+    "courseName": "BREEDING  FOR  ANIMAL  PRODUCTION  EFFICIENCY"
+  },
+  {
+    "courseId": "1008728",
+    "courseCode": "333840",
+    "courseName": "DIGESTIVE  PHYSIOLOGY"
+  },
+  {
+    "courseId": "1008527",
+    "courseCode": "335651",
+    "courseName": "STATISTICS  FOR  AGRO-INDUSTRY  RESEARCH"
+  },
+  {
+    "courseId": "1000673",
+    "courseCode": "422491",
+    "courseName": "COOPERATIVE EDUCATION I"
+  },
+  {
+    "courseId": "1000070",
+    "courseCode": "430201",
+    "courseName": "ENGINEERING STATICS"
+  },
+  {
+    "courseId": "1000070",
+    "courseCode": "430201",
+    "courseName": "ENGINEERING STATICS"
+  },
+  {
+    "courseId": "1000070",
+    "courseCode": "430201",
+    "courseName": "ENGINEERING STATICS"
+  },
+  {
+    "courseId": "1000070",
+    "courseCode": "430201",
+    "courseName": "ENGINEERING STATICS"
+  },
+  {
+    "courseId": "1000070",
+    "courseCode": "430201",
+    "courseName": "ENGINEERING STATICS"
+  },
+  {
+    "courseId": "1000070",
+    "courseCode": "430201",
+    "courseName": "ENGINEERING STATICS"
+  },
+  {
+    "courseId": "1000086",
+    "courseCode": "430211",
+    "courseName": "MECHANICS OF MATERIALS I"
+  },
+  {
+    "courseId": "1000086",
+    "courseCode": "430211",
+    "courseName": "MECHANICS OF MATERIALS I"
+  },
+  {
+    "courseId": "1000208",
+    "courseCode": "430352",
+    "courseName": "HYDROLOGY"
+  },
+  {
+    "courseId": "1000699",
+    "courseCode": "432494",
+    "courseName": "ENVIRONMENTAL ENGINEERING STUDY PROJECT"
+  },
+  {
+    "courseId": "1003441",
+    "courseCode": "438301",
+    "courseName": "MICROPROCESSOR LABORATORY"
+  },
+  {
+    "courseId": "1003441",
+    "courseCode": "438301",
+    "courseName": "MICROPROCESSOR LABORATORY"
+  },
+  {
+    "courseId": "1003441",
+    "courseCode": "438301",
+    "courseName": "MICROPROCESSOR LABORATORY"
+  },
+  {
+    "courseId": "1003448",
+    "courseCode": "438308",
+    "courseName": "ADVANCED ELECTRONIC LABORATORY I"
+  },
+  {
+    "courseId": "1003449",
+    "courseCode": "438499",
+    "courseName": "ELECTRONIC ENGINEERING PROJECT"
+  },
+  {
+    "courseId": "1004382",
+    "courseCode": "521211",
+    "courseName": "FUNDAMENTAL OF AGRICULTURAL AND FOOD ENGINEERING"
+  },
+  {
+    "courseId": "1004988",
+    "courseCode": "521981",
+    "courseName": "DOCTORAL THESIS SCHEME 1.1"
+  },
+  {
+    "courseId": "1006999",
+    "courseCode": "522203",
+    "courseName": "COMPUTER  METHODS  FOR  LOGISTICS"
+  },
+  {
+    "courseId": "1003628",
+    "courseCode": "522243",
+    "courseName": "TRANSPORTATION ENGINEERING"
+  },
+  {
+    "courseId": "1003633",
+    "courseCode": "522342",
+    "courseName": "TRAVEL DEMAND ANALYSIS"
+  },
+  {
+    "courseId": "1003633",
+    "courseCode": "522342",
+    "courseName": "TRAVEL DEMAND ANALYSIS"
+  },
+  {
+    "courseId": "1003633",
+    "courseCode": "522342",
+    "courseName": "TRAVEL DEMAND ANALYSIS"
+  },
+  {
+    "courseId": "1006192",
+    "courseCode": "522771",
+    "courseName": "MASTER  THESIS  SCHEME  A2"
+  },
+  {
+    "courseId": "1006194",
+    "courseCode": "522882",
+    "courseName": "DOCTORAL  DESSERTATION  SCHEME  2.1"
+  },
+  {
+    "courseId": "1003954",
+    "courseCode": "523499",
+    "courseName": "INTRODUCTION TO RESEARCH METHODS"
+  },
+  {
+    "courseId": "1005427",
+    "courseCode": "523792",
+    "courseName": "MASTER  THESIS  SCHEME  A2"
+  },
+  {
+    "courseId": "1005428",
+    "courseCode": "523892",
+    "courseName": "DOCTORAL  THESIS  SCHEME  2.1"
+  },
+  {
+    "courseId": "1006307",
+    "courseCode": "524893",
+    "courseName": "SPECIAL  PROBLEMS"
+  },
+  {
+    "courseId": "1004972",
+    "courseCode": "525600",
+    "courseName": "ADVANCED MECHANICAL ENGINEERING MATHEMATICS I"
+  },
+  {
+    "courseId": "1005467",
+    "courseCode": "525601",
+    "courseName": "ADVANCED  MECHANICAL  ENGINEERING  MATHEMATICS II"
+  },
+  {
+    "courseId": "1005718",
+    "courseCode": "525661",
+    "courseName": "CONTROL  SYSTEM  DESIGN  AND  APPLICATION"
+  },
+  {
+    "courseId": "1005720",
+    "courseCode": "525687",
+    "courseName": "ADVANCED  COMPUTER  AIDED  ENGINEERING"
+  },
+  {
+    "courseId": "1005859",
+    "courseCode": "525693",
+    "courseName": "ADVANCED  SPECIAL  PROBLEMS  IN  MECHANICAL  ENGINEERING  II"
+  },
+  {
+    "courseId": "1005860",
+    "courseCode": "525694",
+    "courseName": "ADVANCED  TECHNOLOGY  IN  MECHANICAL  ENGINEERING  I"
+  },
+  {
+    "courseId": "1005861",
+    "courseCode": "525695",
+    "courseName": "ADVANCED  TECHNOLOGY  IN  MECHANICAL  ENGINEERING  II"
+  },
+  {
+    "courseId": "1005911",
+    "courseCode": "526991",
+    "courseName": "DOCTORAL  THESIS  SCHEME 2.1"
+  },
+  {
+    "courseId": "1003879",
+    "courseCode": "527401",
+    "courseName": "WIRELESS COMMUNICATION SYSTEMS"
+  },
+  {
+    "courseId": "1003894",
+    "courseCode": "527440",
+    "courseName": "ADVANCED TOPIC IN TELECOMMUNICATION ENGINEERING I"
+  },
+  {
+    "courseId": "1003894",
+    "courseCode": "527440",
+    "courseName": "ADVANCED TOPIC IN TELECOMMUNICATION ENGINEERING I"
+  },
+  {
+    "courseId": "1004747",
+    "courseCode": "527639",
+    "courseName": "SMART ANTENNA TECHNOLOGY FOR WIRELESS COMMUNICATIONS"
+  },
+  {
+    "courseId": "1003784",
+    "courseCode": "529296",
+    "courseName": "ELECTRO-MECHANICAL ENERGY CONVERSION"
+  },
+  {
+    "courseId": "1006298",
+    "courseCode": "529315",
+    "courseName": "PROCESS INSTRUMENTATION"
+  },
+  {
+    "courseId": "1005438",
+    "courseCode": "530620",
+    "courseName": "DYNAMICS  OF  STRUCTURES"
+  },
+  {
+    "courseId": "1005557",
+    "courseCode": "530622",
+    "courseName": "ADVANCED  REINFORCED  CONCRETE  STRUCTURES"
+  },
+  {
+    "courseId": "1006095",
+    "courseCode": "530892",
+    "courseName": "MASTER  THESIS  SCHEME  A2"
+  },
+  {
+    "courseId": "1004130",
+    "courseCode": "531202",
+    "courseName": "PHYSICAL METALLURGY LABORATORY I"
+  },
+  {
+    "courseId": "1004166",
+    "courseCode": "531423",
+    "courseName": "CASTING SIMULATION"
+  },
+  {
+    "courseId": "1004172",
+    "courseCode": "531481",
+    "courseName": "SPECIAL STUDIES I"
+  },
+  {
+    "courseId": "1004176",
+    "courseCode": "531485",
+    "courseName": "ADVANCED TOPICS IN METALLURGICAL ENGINEERING I"
+  },
+  {
+    "courseId": "1004456",
+    "courseCode": "533373",
+    "courseName": "AUTOMATION AND CONTROL SYSTEMS"
+  },
+  {
+    "courseId": "1004462",
+    "courseCode": "533375",
+    "courseName": "INDUSTRIAL ROBOTICS AND MACHINE VISION"
+  },
+  {
+    "courseId": "1003988",
+    "courseCode": "534318",
+    "courseName": "PETROLEUM EXPLORATION"
+  },
+  {
+    "courseId": "1004014",
+    "courseCode": "535211",
+    "courseName": "MANUFACTURING ENGINEERING FUNDAMENTALS"
+  },
+  {
+    "courseId": "1004050",
+    "courseCode": "535494",
+    "courseName": "MANUFACTURING ENGINEERING STUDY PROJECT"
+  },
+  {
+    "courseId": "1005881",
+    "courseCode": "535724",
+    "courseName": "ADVANCED  ENGINEERING  MATERIALS  AND  APPLICATIONS"
+  },
+  {
+    "courseId": "1004658",
+    "courseCode": "537340",
+    "courseName": "AERONAUTICAL ENGINEERING LABORATORY"
+  },
+  {
+    "courseId": "1004351",
+    "courseCode": "538303",
+    "courseName": "GEOTECHNIQUES"
+  },
+  {
+    "courseId": "1004364",
+    "courseCode": "538313",
+    "courseName": "INTRODUCTORY MINING ENGINEERING"
+  },
+  {
+    "courseId": "1006833",
+    "courseCode": "539458",
+    "courseName": "INDUSTRIAL  ELECTRONICS"
+  },
+  {
+    "courseId": "1006789",
+    "courseCode": "539601",
+    "courseName": "ADVANCED  MATHEMATICS  FOR  ELECTRONIC  AND  PHOTONIC  ENGINEERING"
+  },
+  {
+    "courseId": "1006845",
+    "courseCode": "539602",
+    "courseName": "NUMERICAL METHODS  IN  ELECTRONIC  AND  PHOTONIC  ENGINEERING"
+  },
+  {
+    "courseId": "1006635",
+    "courseCode": "540494",
+    "courseName": "PRODUCT  DESIGN  ENGINEERING  STUDY  PROJECT"
+  },
+  {
+    "courseId": "1006937",
+    "courseCode": "541221",
+    "courseName": "ENGINEERING  PRODUCTION  PRINCIPLES"
+  },
+  {
+    "courseId": "1006930",
+    "courseCode": "541243",
+    "courseName": "TOOL  ENGINEERING  DRAWING"
+  },
+  {
+    "courseId": "1006942",
+    "courseCode": "541312",
+    "courseName": "FUNDAMENTAL  MACHINE  TOOL  DESIGN"
+  },
+  {
+    "courseId": "1006940",
+    "courseCode": "541313",
+    "courseName": "TOOL  ENGINEERING  I"
+  },
+  {
+    "courseId": "1006940",
+    "courseCode": "541313",
+    "courseName": "TOOL  ENGINEERING  I"
+  },
+  {
+    "courseId": "1006938",
+    "courseCode": "541322",
+    "courseName": "METAL  DEFORMATION  PROCESSES"
+  },
+  {
+    "courseId": "1006939",
+    "courseCode": "541415",
+    "courseName": "DESIGN  FOR  PRODUCTION"
+  },
+  {
+    "courseId": "1003544",
+    "courseCode": "551101",
+    "courseName": "ENGINEERING GRAPHICS"
+  },
+  {
+    "courseId": "1004810",
+    "courseCode": "551111",
+    "courseName": "CHEMISTRY FOR ENGINEERS"
+  },
+  {
+    "courseId": "1004810",
+    "courseCode": "551111",
+    "courseName": "CHEMISTRY FOR ENGINEERS"
+  },
+  {
+    "courseId": "1003543",
+    "courseCode": "551131",
+    "courseName": "ENGINEERING MATHEMATICS I"
+  },
+  {
+    "courseId": "1004850",
+    "courseCode": "551464",
+    "courseName": "ADVANCED TOPICS IN MECHATRONICS ENGINEERING"
+  },
+  {
+    "courseId": "1004850",
+    "courseCode": "551464",
+    "courseName": "ADVANCED TOPICS IN MECHATRONICS ENGINEERING"
+  },
+  {
+    "courseId": "1005411",
+    "courseCode": "551604",
+    "courseName": "MECHATRONIC  SYSTEMS"
+  },
+  {
+    "courseId": "1007109",
+    "courseCode": "551611",
+    "courseName": "AUTOMATIC  CONTROL  SYSTEMS"
+  },
+  {
+    "courseId": "1007110",
+    "courseCode": "551613",
+    "courseName": "PRINCIPLE  OF  COMPUTER  FOR  MECHATRONICS  ENGINEERING"
+  },
+  {
+    "courseId": "1004969",
+    "courseCode": "551624",
+    "courseName": "IMAGE PROCESSING AND COMPUTER VISION"
+  },
+  {
+    "courseId": "1005795",
+    "courseCode": "551628",
+    "courseName": "OPTIMIZATION"
+  },
+  {
+    "courseId": "1005801",
+    "courseCode": "551634",
+    "courseName": "APPLIED  MATHEMATICS"
+  },
+  {
+    "courseId": "1007135",
+    "courseCode": "551639",
+    "courseName": "INTRODUCTION  TO  SYNCHROTRON  RADIATION  BASED  SCIENCE"
+  },
+  {
+    "courseId": "1007137",
+    "courseCode": "551641",
+    "courseName": "STORAGE  RING  AND  INSERTION  DEVICES"
+  },
+  {
+    "courseId": "1007144",
+    "courseCode": "551648",
+    "courseName": "COMPUTATIONAL  AND  NUMERICAL  ANALYSIS"
+  },
+  {
+    "courseId": "1007885",
+    "courseCode": "551649",
+    "courseName": "ENGLISH  FOR  BUSINESS AND  INDUSTRY  COMMUNICATION"
+  },
+  {
+    "courseId": "1005806",
+    "courseCode": "551650",
+    "courseName": "ADVANCED  TOPICS  IN  MECHATRONICS  ENGINEERING I"
+  },
+  {
+    "courseId": "1005807",
+    "courseCode": "551651",
+    "courseName": "ADVANCED  TOPICS  IN  MECHATRONICS  ENGINEERING II"
+  },
+  {
+    "courseId": "1008263",
+    "courseCode": "551653",
+    "courseName": "GRADUATE  COOPERATIVE  EDUCATION"
+  },
+  {
+    "courseId": "1005808",
+    "courseCode": "551700",
+    "courseName": "MASTER  PROJECT"
+  },
+  {
+    "courseId": "1005808",
+    "courseCode": "551700",
+    "courseName": "MASTER  PROJECT"
+  },
+  {
+    "courseId": "1007269",
+    "courseCode": "553659",
+    "courseName": "ENERGY  CONVERSION"
+  },
+  {
+    "courseId": "1008759",
+    "courseCode": "553665",
+    "courseName": "ENERGY  SAVING  IN  ELECTRIC  RAILWAY  SYSTEMS"
+  },
+  {
+    "courseId": "1005542",
+    "courseCode": "553680",
+    "courseName": "SPECIAL  TOPICS  IN  ENERGY  MANAGEMENT  ENGINEERING  I"
+  },
+  {
+    "courseId": "1005446",
+    "courseCode": "554612",
+    "courseName": "RESEARCH  METHODOLOGY  AND  STATISTICS  FOR  ENGINEERING"
+  },
+  {
+    "courseId": "1007807",
+    "courseCode": "554634",
+    "courseName": "BUILDING  INFORMATION  MODELING"
+  },
+  {
+    "courseId": "1005784",
+    "courseCode": "554670",
+    "courseName": "MASTER  PROJECT"
+  },
+  {
+    "courseId": "1005292",
+    "courseCode": "554680",
+    "courseName": "SPECIAL TOPIC IN CONSTRUCTION AND INFRASTRUCTURE MANAGEMENT I"
+  },
+  {
+    "courseId": "1007255",
+    "courseCode": "571502",
+    "courseName": "POLYMER  ENGINEERING  AND  PROCESSING"
+  },
+  {
+    "courseId": "1007158",
+    "courseCode": "571706",
+    "courseName": "ELECTRON  MICROSCOPY  AND  DIFFRACTION  TECHNIQUES"
+  },
+  {
+    "courseId": "1007231",
+    "courseCode": "571780",
+    "courseName": "ADVANCED  TOPICS  IN COMPUTER  AIDED  ENGINEERING"
+  },
+  {
+    "courseId": "1007233",
+    "courseCode": "571782",
+    "courseName": "ADVANCED  TOPICS  IN  METALLURGICAL  ENGINEERING II"
+  },
+  {
+    "courseId": "1007241",
+    "courseCode": "571790",
+    "courseName": "ADVANCED  TOPICS  IN  MATERIALS  ENGINEERING I"
+  },
+  {
+    "courseId": "1007280",
+    "courseCode": "573619",
+    "courseName": "CONTEMPORARY  MANAGEMENT  FOR  CONSTRUCTION"
+  },
+  {
+    "courseId": "1007325",
+    "courseCode": "573664",
+    "courseName": "CITY  LOGISTICS  ANALYSIS"
+  },
+  {
+    "courseId": "1007125",
+    "courseCode": "573689",
+    "courseName": "ADVANCED  DRILLING  ENGINEERING"
+  },
+  {
+    "courseId": "1007405",
+    "courseCode": "573755",
+    "courseName": "GEOLOGY  AND  GEOLOGICAL  RESOURCES  OF  THAILAND"
+  },
+  {
+    "courseId": "1007743",
+    "courseCode": "574531",
+    "courseName": "SPECIAL  PROBLEM  IN  INDUSTRIAL  SYSTEMS  ENGINEERING  II"
+  },
+  {
+    "courseId": "1007743",
+    "courseCode": "574531",
+    "courseName": "SPECIAL  PROBLEM  IN  INDUSTRIAL  SYSTEMS  ENGINEERING  II"
+  },
+  {
+    "courseId": "1007757",
+    "courseCode": "574555",
+    "courseName": "MEMBRANE  TECHNOLOGY  FOR  WATER  AND  WASTEWATER  TREATMENT"
+  },
+  {
+    "courseId": "1007548",
+    "courseCode": "576618",
+    "courseName": "RECENT  TOPICS  IN  SYSTEM  AND  CONTROL"
+  },
+  {
+    "courseId": "1007548",
+    "courseCode": "576618",
+    "courseName": "RECENT  TOPICS  IN  SYSTEM  AND  CONTROL"
+  },
+  {
+    "courseId": "1007577",
+    "courseCode": "576720",
+    "courseName": "POWER  SYSTEM  ECONOMICS"
+  },
+  {
+    "courseId": "1007599",
+    "courseCode": "576764",
+    "courseName": "OPTICAL  SYSTEM  DESIGN"
+  },
+  {
+    "courseId": "1008537",
+    "courseCode": "581407",
+    "courseName": "STYLISH  AND  FORM  DESIGN"
+  },
+  {
+    "courseId": "1001605",
+    "courseCode": "602503",
+    "courseName": "PEDIATRICS III"
+  },
+  {
+    "courseId": "1001606",
+    "courseCode": "602504",
+    "courseName": "PEDIATRICS IV"
+  },
+  {
+    "courseId": "1001608",
+    "courseCode": "603501",
+    "courseName": "OPHTHALMOLOGY"
+  },
+  {
+    "courseId": "1003521",
+    "courseCode": "617498",
+    "courseName": "QUALITY, ENVIRONMENTAL AND SAFETY MANAGEMENT SYSTEMS"
+  },
+  {
+    "courseId": "618342",
+    "courseCode": "618342",
+    "courseName": "PRINCIPLES OF INDUSTRIAL HYGIENE"
+  },
+  {
+    "courseId": "618344",
+    "courseCode": "618344",
+    "courseName": "INDUSTRIAL SAFETY MANAGEMENT"
+  },
+  {
+    "courseId": "618346",
+    "courseCode": "618346",
+    "courseName": "OCCUPATIONAL HEALTH AND SAFETY LAWS"
+  },
+  {
+    "courseId": "1003525",
+    "courseCode": "618410",
+    "courseName": "INDUSTRIAL PROJECT IMPACT ASSESSMENT"
+  },
+  {
+    "courseId": "1003525",
+    "courseCode": "618410",
+    "courseName": "INDUSTRIAL PROJECT IMPACT ASSESSMENT"
+  },
+  {
+    "courseId": "1003526",
+    "courseCode": "618411",
+    "courseName": "INDUSTRIAL RISK MANAGEMENT"
+  },
+  {
+    "courseId": "1003526",
+    "courseCode": "618411",
+    "courseName": "INDUSTRIAL RISK MANAGEMENT"
+  },
+  {
+    "courseId": "1003527",
+    "courseCode": "618412",
+    "courseName": "ERGONOMICS AND WORK PSYCHOLOGY"
+  },
+  {
+    "courseId": "1003527",
+    "courseCode": "618412",
+    "courseName": "ERGONOMICS AND WORK PSYCHOLOGY"
+  },
+  {
+    "courseId": "1003528",
+    "courseCode": "618413",
+    "courseName": "INDUSTRIAL HEALTH PROMOTION AND SERVICES"
+  },
+  {
+    "courseId": "1003528",
+    "courseCode": "618413",
+    "courseName": "INDUSTRIAL HEALTH PROMOTION AND SERVICES"
+  },
+  {
+    "courseId": "1003528",
+    "courseCode": "618413",
+    "courseName": "INDUSTRIAL HEALTH PROMOTION AND SERVICES"
+  },
+  {
+    "courseId": "1005238",
+    "courseCode": "701213",
+    "courseName": "HEALTH ASSESSMENT"
+  },
+  {
+    "courseId": "1005251",
+    "courseCode": "702203",
+    "courseName": "ADULT NURSING I"
+  },
+  {
+    "courseId": "1005255",
+    "courseCode": "703201",
+    "courseName": "MENTAL HEALTH AND PSYCHIATRIC NURSING I"
+  },
+  {
+    "courseId": "1005261",
+    "courseCode": "705201",
+    "courseName": "FAMILY NURSING AND MIDWIFERY I"
+  },
+  {
+    "courseId": "900004",
+    "courseCode": "900004",
+    "courseName": "GRADUATE ENGLISH I"
+  },
+  {
+    "courseId": "900005",
+    "courseCode": "900005",
+    "courseName": "GRADUATE ENGLISH II"
+  },
+  {
+    "courseId": "1001418",
+    "courseCode": "900006",
+    "courseName": "GRADUATE ENGLISH III"
+  },
+  {
+    "courseId": "1001974",
+    "courseCode": "900014",
+    "courseName": "ENGLISH PROFICIENCY TEST"
+  },
+  {
+    "courseId": "1004871",
+    "courseCode": "102330",
+    "courseName": "INSTRUMENTAL METHODS OF ANALYSIS"
+  },
+  {
+    "courseId": "1004872",
+    "courseCode": "102331",
+    "courseName": "INSTRUMENTAL METHODS OF ANALYSIS LABORATORY"
+  },
+  {
+    "courseId": "1009661",
+    "courseCode": "102723",
+    "courseName": "HETEROGENEOUS  CATALYSIS"
+  },
+  {
+    "courseId": "1006169",
+    "courseCode": "103314",
+    "courseName": "DISCRETE  MATHEMATICS"
+  },
+  {
+    "courseId": "103621",
+    "courseCode": "103621",
+    "courseName": "REAL ANALYSIS I"
+  },
+  {
+    "courseId": "1008780",
+    "courseCode": "103621",
+    "courseName": "FUNCTIONAL  ANALYSIS"
+  },
+  {
+    "courseId": "1004916",
+    "courseCode": "105233",
+    "courseName": "INTRODUCTION TO ASTRONOMY"
+  },
+  {
+    "courseId": "1006324",
+    "courseCode": "105353",
+    "courseName": "INTRODUCTION  TO  SEMICONDUCTOR  PHYSICS"
+  },
+  {
+    "courseId": "1008692",
+    "courseCode": "105353",
+    "courseName": "INTRODUCTION  TO  SEMICONDUCTOR  PHYSICS"
+  },
+  {
+    "courseId": "1006009",
+    "courseCode": "106562",
+    "courseName": "INTRODUCTION  TO  GEOINFORMATICS"
+  },
+  {
+    "courseId": "1009814",
+    "courseCode": "106717",
+    "courseName": "SPATIAL  DECISION  SUPPORT  SYSTEM  AND  MULTI-CRITERIA  DECISION  ANALYSIS"
+  },
+  {
+    "courseId": "1000350",
+    "courseCode": "106732",
+    "courseName": "SPECIAL TOPICS IN GEOINFORMATICS RESEARCH"
+  },
+  {
+    "courseId": "1006018",
+    "courseCode": "106769",
+    "courseName": "SPECIAL  TOPICS  IN  GEOINFORMATICS  RESEARCH"
+  },
+  {
+    "courseId": "1004881",
+    "courseCode": "109301",
+    "courseName": "ADVANCED BIOCHEMISTRY"
+  },
+  {
+    "courseId": "109703",
+    "courseCode": "109703",
+    "courseName": "PROTEIN STRUCTURE AND ENGINEERING"
+  },
+  {
+    "courseId": "1004941",
+    "courseCode": "109704",
+    "courseName": "NUCLEIC ACID AND RECOMBINANT DNA TECHNOLOGY"
+  },
+  {
+    "courseId": "1006181",
+    "courseCode": "109771",
+    "courseName": "CURRENT  TOPICS  IN  BIOCHEMISTRY"
+  },
+  {
+    "courseId": "1001525",
+    "courseCode": "114106",
+    "courseName": "SKILL  AND SPORTS SCIENCE OF RHYTHMIC ACTIVITIES"
+  },
+  {
+    "courseId": "1006522",
+    "courseCode": "114203",
+    "courseName": "BIOMECHANICS  AND  MOVEMENT  IN  SPORTS"
+  },
+  {
+    "courseId": "1006523",
+    "courseCode": "114204",
+    "courseName": "BIOMECHANICS  AND  MOVEMENT  IN  SPORTS  LABORATORY"
+  },
+  {
+    "courseId": "1006373",
+    "courseCode": "201501",
+    "courseName": "MASTER'S  THESIS"
+  },
+  {
+    "courseId": "1003235",
+    "courseCode": "204212",
+    "courseName": "INFORMATION IN THE SOCIAL CONTEXT"
+  },
+  {
+    "courseId": "204215",
+    "courseCode": "204215",
+    "courseName": "INFORMATION SERVICE MANAGEMENT"
+  },
+  {
+    "courseId": "1003186",
+    "courseCode": "204228",
+    "courseName": "INFORMATION AND COMMUNICATION TECHNOLOGY SECURITY"
+  },
+  {
+    "courseId": "1005280",
+    "courseCode": "204239",
+    "courseName": "ADVANCED DATABASE DESIGN AND DEVELOPMENT"
+  },
+  {
+    "courseId": "204306",
+    "courseCode": "204306",
+    "courseName": "MANAGEMENT OF MASS MEDIA ORGANIZATION"
+  },
+  {
+    "courseId": "204307",
+    "courseCode": "204307",
+    "courseName": "HUMAN RESOURCE MANAGEMENT"
+  },
+  {
+    "courseId": "204318",
+    "courseCode": "204318",
+    "courseName": "INFORMATION SOURCES"
+  },
+  {
+    "courseId": "204320",
+    "courseCode": "204320",
+    "courseName": "OFFICE INFORMATION MANAGEMENT"
+  },
+  {
+    "courseId": "1003190",
+    "courseCode": "204334",
+    "courseName": "SCRIPTING LANGUAGE PROGRAMMING"
+  },
+  {
+    "courseId": "1003190",
+    "courseCode": "204334",
+    "courseName": "SCRIPTING LANGUAGE PROGRAMMING"
+  },
+  {
+    "courseId": "1003190",
+    "courseCode": "204334",
+    "courseName": "SCRIPTING LANGUAGE PROGRAMMING"
+  },
+  {
+    "courseId": "1003211",
+    "courseCode": "204351",
+    "courseName": "BUSINESS INTELLIGENCE"
+  },
+  {
+    "courseId": "1003206",
+    "courseCode": "204353",
+    "courseName": "AUDIENCE ANALYSIS"
+  },
+  {
+    "courseId": "204401",
+    "courseCode": "204401",
+    "courseName": "LAWS AND ETHICS OF MASS COMMUNICATION"
+  },
+  {
+    "courseId": "1003397",
+    "courseCode": "215356",
+    "courseName": "INTERNATIONAL LOGISTICS"
+  },
+  {
+    "courseId": "1003374",
+    "courseCode": "215431",
+    "courseName": "PROJECT IN MARKETING MANAGEMENT"
+  },
+  {
+    "courseId": "1003413",
+    "courseCode": "215471",
+    "courseName": "PROJECT IN NEW VENTURE MANAGEMENT AND ENTREPRENEURSHIP"
+  },
+  {
+    "courseId": "1006245",
+    "courseCode": "225519",
+    "courseName": "SPECIAL  TOPICS  IN  MANAGEMENT"
+  },
+  {
+    "courseId": "1006247",
+    "courseCode": "225601",
+    "courseName": "ACADEMIC  READING  AND  WRITING  FOR  GRADUATE  STUDENTS"
+  },
+  {
+    "courseId": "1008593",
+    "courseCode": "233511",
+    "courseName": "RESEARCH  METHODOLOGY  AND  STATISTICS  IN  ENGLISH  LANGUAGE  STUDIES"
+  },
+  {
+    "courseId": "1008588",
+    "courseCode": "233541",
+    "courseName": "SECOND  LANGUAGE  ACQUISITION"
+  },
+  {
+    "courseId": "1008589",
+    "courseCode": "233542",
+    "courseName": "APPLIED  LINGUISTICS  AND  LANGUAGE  TEACHING"
+  },
+  {
+    "courseId": "1007491",
+    "courseCode": "235383",
+    "courseName": "DIGITAL-BUSINESS"
+  },
+  {
+    "courseId": "1003833",
+    "courseCode": "312102",
+    "courseName": "FUNDAMENTAL CROP PRODUCTION"
+  },
+  {
+    "courseId": "1004681",
+    "courseCode": "312203",
+    "courseName": "EXPERIMENTAL STATISTICS FOR AGRICULTURE"
+  },
+  {
+    "courseId": "1004681",
+    "courseCode": "312203",
+    "courseName": "EXPERIMENTAL STATISTICS FOR AGRICULTURE"
+  },
+  {
+    "courseId": "1004107",
+    "courseCode": "312211",
+    "courseName": "PHYSIOLOGY OF CROP PRODUCTION"
+  },
+  {
+    "courseId": "1004107",
+    "courseCode": "312211",
+    "courseName": "PHYSIOLOGY OF CROP PRODUCTION"
+  },
+  {
+    "courseId": "1004105",
+    "courseCode": "312241",
+    "courseName": "SOIL AND SOIL MANAGEMENT"
+  },
+  {
+    "courseId": "1004105",
+    "courseCode": "312241",
+    "courseName": "SOIL AND SOIL MANAGEMENT"
+  },
+  {
+    "courseId": "1004104",
+    "courseCode": "312261",
+    "courseName": "AGRICULTURAL MACHINERY FOR CROP PRODUCTION"
+  },
+  {
+    "courseId": "1004104",
+    "courseCode": "312261",
+    "courseName": "AGRICULTURAL MACHINERY FOR CROP PRODUCTION"
+  },
+  {
+    "courseId": "1005870",
+    "courseCode": "312313",
+    "courseName": "FIELD  CROP  PRODUCTION  TECHNOLOGY"
+  },
+  {
+    "courseId": "1005870",
+    "courseCode": "312313",
+    "courseName": "FIELD  CROP  PRODUCTION  TECHNOLOGY"
+  },
+  {
+    "courseId": "1004688",
+    "courseCode": "312315",
+    "courseName": "HORTICULTURAL PRODUCTION TECHNOLOGY"
+  },
+  {
+    "courseId": "1004688",
+    "courseCode": "312315",
+    "courseName": "HORTICULTURAL PRODUCTION TECHNOLOGY"
+  },
+  {
+    "courseId": "1004704",
+    "courseCode": "312322",
+    "courseName": "ECONOMIC VEGETABLE CROP PRODUCTION"
+  },
+  {
+    "courseId": "1003083",
+    "courseCode": "312892",
+    "courseName": "M.SC.THESIS A 2"
+  },
+  {
+    "courseId": "1003144",
+    "courseCode": "312991",
+    "courseName": "PH.D.THESIS SCHEME 1.1"
+  },
+  {
+    "courseId": "1004489",
+    "courseCode": "313341",
+    "courseName": "POULTRY PRODUCTION"
+  },
+  {
+    "courseId": "1004489",
+    "courseCode": "313341",
+    "courseName": "POULTRY PRODUCTION"
+  },
+  {
+    "courseId": "1004484",
+    "courseCode": "314654",
+    "courseName": "SELECTED RESEARCH IN INDUSTRIAL BIOTECHNOLOGY AND BIOPROCESS ENGINEERING"
+  },
+  {
+    "courseId": "1004097",
+    "courseCode": "314785",
+    "courseName": "SEMINAR 5 (FOR PH.D. SCHEME 2.1 AND 2.2)"
+  },
+  {
+    "courseId": "1001957",
+    "courseCode": "315321",
+    "courseName": "FOOD AND NUTRITION"
+  },
+  {
+    "courseId": "1001960",
+    "courseCode": "315332",
+    "courseName": "FOOD PROCESSING LABORATORY II"
+  },
+  {
+    "courseId": "1001963",
+    "courseCode": "315451",
+    "courseName": "FOOD QUALITY CONTROL"
+  },
+  {
+    "courseId": "1001965",
+    "courseCode": "315453",
+    "courseName": "SANITATION AND PLANT ENVIRONMENT MANAGEMENT"
+  },
+  {
+    "courseId": "1001973",
+    "courseCode": "315462",
+    "courseName": "MEAT AND POULTRY PRODUCT TECHNOLOGY"
+  },
+  {
+    "courseId": "1006464",
+    "courseCode": "322613",
+    "courseName": "MOLECULAR  PLANT  BREEDING"
+  },
+  {
+    "courseId": "1006472",
+    "courseCode": "322621",
+    "courseName": "ADVANCED  CROP  PHYSIOLOGY"
+  },
+  {
+    "courseId": "1006489",
+    "courseCode": "322648",
+    "courseName": "ADVANCED  BIOLOGICAL  CONTROL  OF  PLANT  DISEASES"
+  },
+  {
+    "courseId": "1005102",
+    "courseCode": "325211",
+    "courseName": "FOOD MICROBIOLOGY I"
+  },
+  {
+    "courseId": "1005103",
+    "courseCode": "325212",
+    "courseName": "FOOD MICROBIOLOGY LABORATORY I"
+  },
+  {
+    "courseId": "1005138",
+    "courseCode": "325465",
+    "courseName": "CEREAL AND LEGUME PRODUCT TECHNOLOGY"
+  },
+  {
+    "courseId": "1009783",
+    "courseCode": "332613",
+    "courseName": "MOLECULAR  PLANT  BREEDING"
+  },
+  {
+    "courseId": "1009998",
+    "courseCode": "332674",
+    "courseName": "RESEARCH  TOPIC  IN  CROP  SCIENCE"
+  },
+  {
+    "courseId": "1008711",
+    "courseCode": "333654",
+    "courseName": "FEED  ADDITIVES  IN  ANIMAL  PRODUCTION"
+  },
+  {
+    "courseId": "1008980",
+    "courseCode": "333742",
+    "courseName": "ENDOCRINOLOGY  OF  DOMESTIC  ANIMALS"
+  },
+  {
+    "courseId": "1008984",
+    "courseCode": "333842",
+    "courseName": "GROWTH  AND  DEVELOPMENT  OF  DOMESTIC  ANIMALS"
+  },
+  {
+    "courseId": "1008528",
+    "courseCode": "335631",
+    "courseName": "ADVANCED FOOD PROCESSING"
+  },
+  {
+    "courseId": "1000206",
+    "courseCode": "430431",
+    "courseName": "REINFORCED CONCRETE DESIGN"
+  },
+  {
+    "courseId": "1000209",
+    "courseCode": "430451",
+    "courseName": "HYDRAULIC ENGINEERING"
+  },
+  {
+    "courseId": "1003443",
+    "courseCode": "438303",
+    "courseName": "FEEDBACK CONTROL SYSTEM"
+  },
+  {
+    "courseId": "1003447",
+    "courseCode": "438307",
+    "courseName": "POWER ELECTRONICS"
+  },
+  {
+    "courseId": "1004406",
+    "courseCode": "521335",
+    "courseName": "FOOD PROCESS ENGINEERING LABORATORY I"
+  },
+  {
+    "courseId": "1005746",
+    "courseCode": "521717",
+    "courseName": "EXPERIMENTAL  AND  TESTING  DESIGN  OF  AGRICULTURAL  AND  FOOD  MACHINERY"
+  },
+  {
+    "courseId": "1006409",
+    "courseCode": "521745",
+    "courseName": "COMPUTATIONAL  FLUID   DYNAMICS  FOR  AGRICULTURAL  AND  FOOD  ENGINEERING"
+  },
+  {
+    "courseId": "1003631",
+    "courseCode": "522313",
+    "courseName": "INVENTORY AND WAREHOUSE MANAGEMENT"
+  },
+  {
+    "courseId": "1003641",
+    "courseCode": "522314",
+    "courseName": "GLOBAL LOGISTICS AND SUPPLY CHAIN MANAGEMENT"
+  },
+  {
+    "courseId": "1003957",
+    "courseCode": "523492",
+    "courseName": "COOPERATIVE EDUCATION II"
+  },
+  {
+    "courseId": "1003952",
+    "courseCode": "523497",
+    "courseName": "ADVANCED TOPICS IN COMPUTER ENGINEERING I"
+  },
+  {
+    "courseId": "1004224",
+    "courseCode": "526419",
+    "courseName": "STATISTICAL EXPERIMENTAL DESIGN FOR CERAMIC ENGINEERING"
+  },
+  {
+    "courseId": "1004315",
+    "courseCode": "528201",
+    "courseName": "ELEMENTARY PRINCIPLES IN POLYMER ENGINEERING"
+  },
+  {
+    "courseId": "1004348",
+    "courseCode": "528494",
+    "courseName": "POLYMER ENGINEERING STUDY PROJECT"
+  },
+  {
+    "courseId": "1003796",
+    "courseCode": "529304",
+    "courseName": "ELECTRICAL MACHINES LABORATORY II"
+  },
+  {
+    "courseId": "1003816",
+    "courseCode": "529324",
+    "courseName": "DISTRIBUTED GENERATION SYSTEM"
+  },
+  {
+    "courseId": "1003819",
+    "courseCode": "529401",
+    "courseName": "POWER SYSTEM LABORATORY II"
+  },
+  {
+    "courseId": "1003838",
+    "courseCode": "529426",
+    "courseName": "POWER SYSTEM SIMULATION"
+  },
+  {
+    "courseId": "1007968",
+    "courseCode": "529434",
+    "courseName": "ELECTRICAL  POWER  ENGINEERING  LABORATORY"
+  },
+  {
+    "courseId": "1007968",
+    "courseCode": "529434",
+    "courseName": "ELECTRICAL  POWER  ENGINEERING  LABORATORY"
+  },
+  {
+    "courseId": "1007968",
+    "courseCode": "529434",
+    "courseName": "ELECTRICAL  POWER  ENGINEERING  LABORATORY"
+  },
+  {
+    "courseId": "1007968",
+    "courseCode": "529434",
+    "courseName": "ELECTRICAL  POWER  ENGINEERING  LABORATORY"
+  },
+  {
+    "courseId": "1007968",
+    "courseCode": "529434",
+    "courseName": "ELECTRICAL  POWER  ENGINEERING  LABORATORY"
+  },
+  {
+    "courseId": "1005440",
+    "courseCode": "530641",
+    "courseName": "ADVANCED  FOUNDATION  ENGINEERING"
+  },
+  {
+    "courseId": "1005440",
+    "courseCode": "530641",
+    "courseName": "ADVANCED  FOUNDATION  ENGINEERING"
+  },
+  {
+    "courseId": "1004135",
+    "courseCode": "531207",
+    "courseName": "PRINCIPLES OF METALLURGICAL ENGINEERING"
+  },
+  {
+    "courseId": "1004168",
+    "courseCode": "531425",
+    "courseName": "PHYSICAL METALLURGY OF STEELS"
+  },
+  {
+    "courseId": "1008119",
+    "courseCode": "532443",
+    "courseName": "CONSTRUCTION  MANAGEMENT  FOR  ENVIRONMENTAL  ENGINEERING"
+  },
+  {
+    "courseId": "1003686",
+    "courseCode": "533364",
+    "courseName": "INTRODUCTION TO DESIGN FOR MANUFACTURING"
+  },
+  {
+    "courseId": "1003974",
+    "courseCode": "534307",
+    "courseName": "PETROLEUM TECHNOLOGICAL EXCURSION"
+  },
+  {
+    "courseId": "1004035",
+    "courseCode": "535453",
+    "courseName": "SAFETY AT WORK"
+  },
+  {
+    "courseId": "1007558",
+    "courseCode": "535470",
+    "courseName": "MACHINE  VISION  TECHNOLOGY"
+  },
+  {
+    "courseId": "1008616",
+    "courseCode": "535480",
+    "courseName": "DESIGN  FOR  MANUFACTURING  AND  ASSEMBLY"
+  },
+  {
+    "courseId": "1008619",
+    "courseCode": "535483",
+    "courseName": "DESIGN  OF  EXPERIMENT"
+  },
+  {
+    "courseId": "1005875",
+    "courseCode": "535603",
+    "courseName": "EXPERIMENTAL  STATISTICS  FOR  MANUFACTURING  ENGINEERING"
+  },
+  {
+    "courseId": "1004353",
+    "courseCode": "538305",
+    "courseName": "ENVIRONMENTAL GEOMECHANICS"
+  },
+  {
+    "courseId": "1004355",
+    "courseCode": "538307",
+    "courseName": "GEOLOGICAL ENGINEERING EXCURSION"
+  },
+  {
+    "courseId": "1004356",
+    "courseCode": "538308",
+    "courseName": "GEOPHYSICS"
+  },
+  {
+    "courseId": "1006543",
+    "courseCode": "540220",
+    "courseName": "PRINCIPLES  OF  AESTHETICS"
+  },
+  {
+    "courseId": "1006544",
+    "courseCode": "540221",
+    "courseName": "ART  AND  DESIGN  FOR  ENGINEER"
+  },
+  {
+    "courseId": "1006936",
+    "courseCode": "541211",
+    "courseName": "ENGINEERING  METROLOGY"
+  },
+  {
+    "courseId": "1006941",
+    "courseCode": "541314",
+    "courseName": "TOOL  ENGINEERING  II"
+  },
+  {
+    "courseId": "1006935",
+    "courseCode": "541331",
+    "courseName": "METHODS  ENGINEERING"
+  },
+  {
+    "courseId": "1006944",
+    "courseCode": "541433",
+    "courseName": "COMPUTER-AIDED  TOOL  ENGINEERING  DESIGN"
+  },
+  {
+    "courseId": "1003545",
+    "courseCode": "551102",
+    "courseName": "COMPUTER PROGRAMMING"
+  },
+  {
+    "courseId": "1004079",
+    "courseCode": "551121",
+    "courseName": "PHYSICS FOR ENGINEERS I"
+  },
+  {
+    "courseId": "1004835",
+    "courseCode": "551440",
+    "courseName": "MECHATRONICS ENGINEERING LABORATORY III"
+  },
+  {
+    "courseId": "1007136",
+    "courseCode": "551640",
+    "courseName": "ACCELERATOR  AND  PARTICLE  BEAMS"
+  },
+  {
+    "courseId": "1007149",
+    "courseCode": "551902",
+    "courseName": "DOCTORAL  THESIS  2.2"
+  },
+  {
+    "courseId": "1005516",
+    "courseCode": "553623",
+    "courseName": "RENEWABLE  ENERGY  TECHNOLOGY"
+  },
+  {
+    "courseId": "1008705",
+    "courseCode": "553638",
+    "courseName": "SUPPLY  CHAIN  MANAGEMENT  IN  SERVICE  INDUSTRY"
+  },
+  {
+    "courseId": "1005541",
+    "courseCode": "553670",
+    "courseName": "MASTER  PROJECT"
+  },
+  {
+    "courseId": "1007268",
+    "courseCode": "553802",
+    "courseName": "DOCTORAL  THESIS  SHCEME 1.1"
+  },
+  {
+    "courseId": "1007163",
+    "courseCode": "571711",
+    "courseName": "ADVANCED  CORROSION  OF  METALS"
+  },
+  {
+    "courseId": "1007212",
+    "courseCode": "571760",
+    "courseName": "NANOSTRUCTURED  METALS  AND  ALLOYS"
+  },
+  {
+    "courseId": "1007220",
+    "courseCode": "571768",
+    "courseName": "LASER  MATERIALS  PROCESSING"
+  },
+  {
+    "courseId": "1007281",
+    "courseCode": "573620",
+    "courseName": "FINANCIAL  MANAGEMENT  FOR  CONSTRUCTION"
+  },
+  {
+    "courseId": "1007282",
+    "courseCode": "573621",
+    "courseName": "ADVANCED  PROJECT  PLANNING  AND  CONTROLS"
+  },
+  {
+    "courseId": "1007284",
+    "courseCode": "573623",
+    "courseName": "INTRODUCTION  TO  FINITE  ELEMENT  METHOD"
+  },
+  {
+    "courseId": "1007333",
+    "courseCode": "573672",
+    "courseName": "ASPHALT  TECHNOLOGY"
+  },
+  {
+    "courseId": "1007377",
+    "courseCode": "573723",
+    "courseName": "ROCK  SALT  MECHANICS"
+  },
+  {
+    "courseId": "1007127",
+    "courseCode": "573745",
+    "courseName": "APPLIED  MICROPALEONTOLOGY"
+  },
+  {
+    "courseId": "1007398",
+    "courseCode": "573747",
+    "courseName": "APPLIED  BIOSTRATIGRAPHY"
+  },
+  {
+    "courseId": "1007717",
+    "courseCode": "574503",
+    "courseName": "LOGISTICS  AND  SUPPLY  CHAIN  MANAGEMENT"
+  },
+  {
+    "courseId": "1007724",
+    "courseCode": "574511",
+    "courseName": "MODERN  MANUFACTURING  SYSTEMS"
+  },
+  {
+    "courseId": "1007726",
+    "courseCode": "574513",
+    "courseName": "OPTIMIZATION  TECHNIQUES"
+  },
+  {
+    "courseId": "1007771",
+    "courseCode": "574569",
+    "courseName": "GROUNDWATER  CONTAMINATION AND  POLLUTANT  TRANSPORT"
+  },
+  {
+    "courseId": "1007532",
+    "courseCode": "576631",
+    "courseName": "IMAGE  PROCESSING"
+  },
+  {
+    "courseId": "1007535",
+    "courseCode": "576725",
+    "courseName": "RECENT  TOPICS  IN  POWER  ELECTRONICS"
+  },
+  {
+    "courseId": "1007585",
+    "courseCode": "576729",
+    "courseName": "ACTIVE  POWER  FILTERS  AND  CONTROLS"
+  },
+  {
+    "courseId": "1007594",
+    "courseCode": "576755",
+    "courseName": "SOLAR  CELLS  AND  SYSTEMS"
+  },
+  {
+    "courseId": "1001604",
+    "courseCode": "602402",
+    "courseName": "PEDIATRICS II"
+  },
+  {
+    "courseId": "1002095",
+    "courseCode": "609534",
+    "courseName": "FAMILY AND COMMUNITY MEDICINE V"
+  },
+  {
+    "courseId": "1001637",
+    "courseCode": "613501",
+    "courseName": "OTOLARYNGOLOGY"
+  },
+  {
+    "courseId": "1000787",
+    "courseCode": "618352",
+    "courseName": "INDUSTRIAL SAFETY TECHNOLOGY"
+  },
+  {
+    "courseId": "1003530",
+    "courseCode": "618414",
+    "courseName": "OCCUPATIONAL HEALTH AND SAFETY SUTDY PROJECT"
+  },
+  {
+    "courseId": "1003531",
+    "courseCode": "618415",
+    "courseName": "SEMINAR/SPECIAL PROBLEMS ON OCCUPATIONAL HEALTH AND SAFETY PROBLEMS"
+  },
+  {
+    "courseId": "1003531",
+    "courseCode": "618415",
+    "courseName": "SEMINAR/SPECIAL PROBLEMS ON OCCUPATIONAL HEALTH AND SAFETY PROBLEMS"
+  },
+  {
+    "courseId": "1003532",
+    "courseCode": "618416",
+    "courseName": "OCCUPATIONAL HEALTH SAFETY AND ENVIRONMENTAL MANAGEMENT STANDARD"
+  },
+  {
+    "courseId": "1005233",
+    "courseCode": "701211",
+    "courseName": "NUTRITION AND DIET THERAPY"
+  },
+  {
+    "courseId": "1005243",
+    "courseCode": "701319",
+    "courseName": "ETHICS AND LAWS IN NURSING PROFESSION"
+  },
+  {
+    "courseId": "1005252",
+    "courseCode": "702204",
+    "courseName": "ADULT NURSING II"
+  },
+  {
+    "courseId": "1005258",
+    "courseCode": "704301",
+    "courseName": "PEDIATRIC AND ADOLESCENT NURSING I"
+  },
+  {
+    "courseId": "1005259",
+    "courseCode": "704302",
+    "courseName": "PEDIATRIC AND ADOLESCENT NURSING II"
+  },
+  {
+    "courseId": "1005262",
+    "courseCode": "705303",
+    "courseName": "FAMILY NURSING AND MIDWIFERY II"
+  },
+  {
+    "courseId": "1005263",
+    "courseCode": "705304",
+    "courseName": "FAMILY NURSING AND MIDWIFERY III"
+  },
+  {
+    "courseId": "1008853",
+    "courseCode": "102314",
+    "courseName": "ADVANCE  INORGANIC  CHEMISTRY"
+  },
+  {
+    "courseId": "1008854",
+    "courseCode": "102315",
+    "courseName": "ADVANCE  INORGANIC  CHEMISTRY  LABORATORY"
+  },
+  {
+    "courseId": "1004876",
+    "courseCode": "102340",
+    "courseName": "ADVANCED PHYSICAL CHEMISTRY"
+  },
+  {
+    "courseId": "1002538",
+    "courseCode": "102630",
+    "courseName": "GRADUATE ANALYTICAL CHEMISTRY"
+  },
+  {
+    "courseId": "1002540",
+    "courseCode": "102650",
+    "courseName": "GRADUATE COMPUTATIONAL CHEMISTRY"
+  },
+  {
+    "courseId": "1002540",
+    "courseCode": "102650",
+    "courseName": "GRADUATE COMPUTATIONAL CHEMISTRY"
+  },
+  {
+    "courseId": "1009653",
+    "courseCode": "102654",
+    "courseName": "QUANTUM  SPECTROSCOPY"
+  },
+  {
+    "courseId": "1009653",
+    "courseCode": "102654",
+    "courseName": "QUANTUM  SPECTROSCOPY"
+  },
+  {
+    "courseId": "1009658",
+    "courseCode": "102714",
+    "courseName": "CHEMICAL  AND  LABORATORY  SAFETY"
+  },
+  {
+    "courseId": "1009660",
+    "courseCode": "102722",
+    "courseName": "FUNCTIONAL  MATERIALS"
+  },
+  {
+    "courseId": "1009660",
+    "courseCode": "102722",
+    "courseName": "FUNCTIONAL  MATERIALS"
+  },
+  {
+    "courseId": "1009680",
+    "courseCode": "102745",
+    "courseName": "SELECTED  TOPICS  IN  ANALYTICAL  CHEMISTRY II"
+  },
+  {
+    "courseId": "1002720",
+    "courseCode": "102769",
+    "courseName": "METERIAL CHEMISTRY"
+  },
+  {
+    "courseId": "1002720",
+    "courseCode": "102769",
+    "courseName": "METERIAL CHEMISTRY"
+  },
+  {
+    "courseId": "1005086",
+    "courseCode": "103312",
+    "courseName": "TOPICS IN THE HISTORY AND PHILOSOPHY OF MATHEMATICS"
+  },
+  {
+    "courseId": "1006164",
+    "courseCode": "103322",
+    "courseName": "TOPOLOGY"
+  },
+  {
+    "courseId": "1009894",
+    "courseCode": "103643",
+    "courseName": "OPERATIONS  RESEARCH"
+  },
+  {
+    "courseId": "1006333",
+    "courseCode": "103761",
+    "courseName": "CONTINUUM  MECHANICS"
+  },
+  {
+    "courseId": "1006975",
+    "courseCode": "104326",
+    "courseName": "ECONOMIC  BOTANY"
+  },
+  {
+    "courseId": "1006976",
+    "courseCode": "104327",
+    "courseName": "PLANT  CELL  AND  TISSUE  CULTURE"
+  },
+  {
+    "courseId": "104620",
+    "courseCode": "104620",
+    "courseName": "BIODIVERSITY AND CONSERVATION"
+  },
+  {
+    "courseId": "1005037",
+    "courseCode": "104686",
+    "courseName": "SCIENTIFIC WRITING IN ENVIRONMENTAL BIOLOGY"
+  },
+  {
+    "courseId": "1000252",
+    "courseCode": "104734",
+    "courseName": "AVIAN PHYSIOLOGY"
+  },
+  {
+    "courseId": "1004917",
+    "courseCode": "105261",
+    "courseName": "OPTICS"
+  },
+  {
+    "courseId": "1004921",
+    "courseCode": "105321",
+    "courseName": "QUANTUM MECHANICS I"
+  },
+  {
+    "courseId": "1004879",
+    "courseCode": "109207",
+    "courseName": "PRINCIPLES OF BIOCHEMISTRY"
+  },
+  {
+    "courseId": "1004880",
+    "courseCode": "109208",
+    "courseName": "PRINCIPLES OF BIOCHEMISTRY LABORATORY"
+  },
+  {
+    "courseId": "1006683",
+    "courseCode": "114221",
+    "courseName": "PHYSICAL FITNESS TESTING AND ASSESSMENT FOR HEALTH AND COMPETITION"
+  },
+  {
+    "courseId": "1006527",
+    "courseCode": "114329",
+    "courseName": "MASSAGE FOR HEALTH AND SPORTS"
+  },
+  {
+    "courseId": "1001541",
+    "courseCode": "114330",
+    "courseName": "SPORTS MANAGEMENT AND MARKETING"
+  },
+  {
+    "courseId": "1006528",
+    "courseCode": "114330",
+    "courseName": "SPORTS MANAGEMENT AND MARKETING"
+  },
+  {
+    "courseId": "1001547",
+    "courseCode": "114331",
+    "courseName": "SPORTS SCIENCE FOR COACHING"
+  },
+  {
+    "courseId": "1006532",
+    "courseCode": "114331",
+    "courseName": "SPORTS  COACHING"
+  },
+  {
+    "courseId": "1001548",
+    "courseCode": "114332",
+    "courseName": "EXERCISE PRESCRIPTION FOR HEALTH"
+  },
+  {
+    "courseId": "1006533",
+    "courseCode": "114332",
+    "courseName": "EXERCISE  PRESCRIPTION  FOR  HEALTH"
+  },
+  {
+    "courseId": "1001553",
+    "courseCode": "114430",
+    "courseName": "SPORTS SCIENCE FOR INTERNATIONAL COMPETITION"
+  },
+  {
+    "courseId": "1006537",
+    "courseCode": "114430",
+    "courseName": "SPORTS  SCIENCE  FOR  PROFESSIONAL  SPORTS"
+  },
+  {
+    "courseId": "1008411",
+    "courseCode": "115603",
+    "courseName": "CARE AND  USE  OF  LABORATORY  ANIMALS"
+  },
+  {
+    "courseId": "1002286",
+    "courseCode": "115788",
+    "courseName": "HOLISTIC MEDICINE AND BIOMEDICAL SCIENCES"
+  },
+  {
+    "courseId": "204220",
+    "courseCode": "204220",
+    "courseName": "BUSINESS COMMUNICATION"
+  },
+  {
+    "courseId": "204222",
+    "courseCode": "204222",
+    "courseName": "LANGUAGE AND COMMUNICATION BEHAVIOR"
+  },
+  {
+    "courseId": "1003221",
+    "courseCode": "204234",
+    "courseName": "INFORMATION ORGANIZATION"
+  },
+  {
+    "courseId": "1006682",
+    "courseCode": "204234",
+    "courseName": "INFORMATION ORGANIZATION"
+  },
+  {
+    "courseId": "204308",
+    "courseCode": "204308",
+    "courseName": "MANAGEMENT OF INFORMATION SYSTEMS"
+  },
+  {
+    "courseId": "204323",
+    "courseCode": "204323",
+    "courseName": "TECHNOLOGY IN POLITICAL COMMUNICATION"
+  },
+  {
+    "courseId": "1003191",
+    "courseCode": "204337",
+    "courseName": "PARALLEL AND DISTRIBUTED PROGRAMMING"
+  },
+  {
+    "courseId": "1003228",
+    "courseCode": "204344",
+    "courseName": "MULTIMEDIA ARCHIVES"
+  },
+  {
+    "courseId": "1003222",
+    "courseCode": "204352",
+    "courseName": "DIGITAL LIBRARIES"
+  },
+  {
+    "courseId": "1003212",
+    "courseCode": "204355",
+    "courseName": "PROJECT MANAGEMENT FOR MANAGEMENT INFORMATION SYSTEMS"
+  },
+  {
+    "courseId": "1003219",
+    "courseCode": "204356",
+    "courseName": "OPERATIONS MANAGEMENT"
+  },
+  {
+    "courseId": "1005293",
+    "courseCode": "204376",
+    "courseName": "PSYCHOLOGY OF COMMUNICATION"
+  },
+  {
+    "courseId": "204411",
+    "courseCode": "204411",
+    "courseName": "RESEARCH AND EVALUATION OF INFORMATION WORK"
+  },
+  {
+    "courseId": "1007509",
+    "courseCode": "204650",
+    "courseName": "DIGITAL  BUSINESS  AND  E-COMMERCE"
+  },
+  {
+    "courseId": "1003331",
+    "courseCode": "204904",
+    "courseName": "SELECTED TOPICS IN KNOWLEDGE MANAGEMENT TECHNOLOGIES"
+  },
+  {
+    "courseId": "1003334",
+    "courseCode": "204908",
+    "courseName": "SPECIAL TOPICS 1"
+  },
+  {
+    "courseId": "1003401",
+    "courseCode": "215360",
+    "courseName": "QUALITY MANAGEMENT"
+  },
+  {
+    "courseId": "1006244",
+    "courseCode": "225517",
+    "courseName": "STRATEGIC  MANAGEMENT"
+  },
+  {
+    "courseId": "1008595",
+    "courseCode": "233513",
+    "courseName": "RESEARCH  SEMINAR  IN  ENGLISH  LANGUAGE  STUDIES"
+  },
+  {
+    "courseId": "1008584",
+    "courseCode": "233522",
+    "courseName": "ONLINE  SECOND  LANGUAGE  LEARNING"
+  },
+  {
+    "courseId": "1008590",
+    "courseCode": "233543",
+    "courseName": "LANGUAGE  TEACHING  METHODOLOGY"
+  },
+  {
+    "courseId": "1008592",
+    "courseCode": "233545",
+    "courseName": "TESTING, EVALUATION, AND  ASSESSMENT  IN  LANGUAGE  LEARNING"
+  },
+  {
+    "courseId": "1007458",
+    "courseCode": "235343",
+    "courseName": "RETAIL  BUSINESS  CASE  STUDIES"
+  },
+  {
+    "courseId": "1007459",
+    "courseCode": "235344",
+    "courseName": "STORE  LOCATION  AND  DESIGN"
+  },
+  {
+    "courseId": "1003832",
+    "courseCode": "312101",
+    "courseName": "INTRODUCTION TO STATISTICS OF AGRICULTURE"
+  },
+  {
+    "courseId": "1004447",
+    "courseCode": "312103",
+    "courseName": "CROP PRODUCTION PRACTICUM I"
+  },
+  {
+    "courseId": "1004447",
+    "courseCode": "312103",
+    "courseName": "CROP PRODUCTION PRACTICUM I"
+  },
+  {
+    "courseId": "1004447",
+    "courseCode": "312103",
+    "courseName": "CROP PRODUCTION PRACTICUM I"
+  },
+  {
+    "courseId": "1004706",
+    "courseCode": "312324",
+    "courseName": "VITICULTURE TECHNOLOGY"
+  },
+  {
+    "courseId": "1004716",
+    "courseCode": "312335",
+    "courseName": "VEGETABLE BREEDING"
+  },
+  {
+    "courseId": "1004728",
+    "courseCode": "312338",
+    "courseName": "PLANT TISSUE CULTURE"
+  },
+  {
+    "courseId": "1004720",
+    "courseCode": "312363",
+    "courseName": "LANDSCAPE AND TURF MANAGEMENT"
+  },
+  {
+    "courseId": "1004490",
+    "courseCode": "313344",
+    "courseName": "CATTLE PRODUCTION"
+  },
+  {
+    "courseId": "1004628",
+    "courseCode": "313425",
+    "courseName": "FORAGE AND PASTURE MANAGEMENT"
+  },
+  {
+    "courseId": "1004634",
+    "courseCode": "313453",
+    "courseName": "LIVESTOCK EXTENSION AND AGRARIAN LAWS"
+  },
+  {
+    "courseId": "1006393",
+    "courseCode": "313456",
+    "courseName": "ANIMAL  PRODUCTION  PROJECT  PLANNING  AND  ANALYSIS"
+  },
+  {
+    "courseId": "1001955",
+    "courseCode": "315222",
+    "courseName": "FOOD CHEMISTRY LABORATORY"
+  },
+  {
+    "courseId": "1001958",
+    "courseCode": "315322",
+    "courseName": "POSTHARVEST CHANGES OF BIOLOGYCAL MATERIALS"
+  },
+  {
+    "courseId": "1001970",
+    "courseCode": "315411",
+    "courseName": "FOOD FERMENTATION TECHNOLOGY"
+  },
+  {
+    "courseId": "1001964",
+    "courseCode": "315452",
+    "courseName": "FOOD SAFETY AND QUALITY ASSURANCE SYSTEM"
+  },
+  {
+    "courseId": "1001966",
+    "courseCode": "315454",
+    "courseName": "FOOD PRODUCT DEVELOPMENT AND MARKETING"
+  },
+  {
+    "courseId": "1001967",
+    "courseCode": "315481",
+    "courseName": "SEMINAR I"
+  },
+  {
+    "courseId": "1006316",
+    "courseCode": "322511",
+    "courseName": "PLANT  BREEDING  TECHNIQUES"
+  },
+  {
+    "courseId": "1006499",
+    "courseCode": "322652",
+    "courseName": "SOIL  AND  PLANT  RELATIONSHIPS"
+  },
+  {
+    "courseId": "1006308",
+    "courseCode": "322672",
+    "courseName": "RESEARCH  REPORT  WRITING  AND  MANUSCRIPT  PREPARATION"
+  },
+  {
+    "courseId": "1005132",
+    "courseCode": "325411",
+    "courseName": "FOOD FERMENTATION TECHNOLOGY"
+  },
+  {
+    "courseId": "1009779",
+    "courseCode": "332574",
+    "courseName": "MANUSCRIPT  PREPARATION"
+  },
+  {
+    "courseId": "1009982",
+    "courseCode": "332654",
+    "courseName": "SOIL  AND  PLANT  RELATIONSHIP"
+  },
+  {
+    "courseId": "1008986",
+    "courseCode": "333653",
+    "courseName": "ADVANCED  IN  FEED  TECHNOLOGY"
+  },
+  {
+    "courseId": "1008931",
+    "courseCode": "333751",
+    "courseName": "QUALITATIVE  FEED  EVALUATION AND  MONOGASTRIC  ANIMALS  FEEDING"
+  },
+  {
+    "courseId": "1008991",
+    "courseCode": "333763",
+    "courseName": "ADVANCED  MEAT  TECHNOLOGY"
+  },
+  {
+    "courseId": "1008940",
+    "courseCode": "333851",
+    "courseName": "MODELLING  OF  RUMINANT  NUTRITION"
+  },
+  {
+    "courseId": "1009046",
+    "courseCode": "335622",
+    "courseName": "FOOD  CARBOHYDRATES"
+  },
+  {
+    "courseId": "1004383",
+    "courseCode": "521212",
+    "courseName": "ENGINEERING PROPERTIES OF AGRICULTURAL AND FOOD MATERIALS"
+  },
+  {
+    "courseId": "1004386",
+    "courseCode": "521231",
+    "courseName": "INTRODUCTION TO FOOD CHEMISTRY AND MICROBIOLOGY"
+  },
+  {
+    "courseId": "1008149",
+    "courseCode": "521414",
+    "courseName": "AGRICULTURAL  AND  FOOD  MATERIALS  HANDLING  EQUIPMENT  DESIGN"
+  },
+  {
+    "courseId": "1004436",
+    "courseCode": "521475",
+    "courseName": "AGRICULTURAL AND FOOD MATERIALS HANDLING EQUIPMENTS DESIGN"
+  },
+  {
+    "courseId": "1004446",
+    "courseCode": "521494",
+    "courseName": "AGRICULTURAL AND FOOD ENGINEERING STUDY PROJECT"
+  },
+  {
+    "courseId": "1004952",
+    "courseCode": "521602",
+    "courseName": "ENGINEERING ANALYSIS OF AGRICULTURAL AND FOOD PROCESSING"
+  },
+  {
+    "courseId": "1003626",
+    "courseCode": "522212",
+    "courseName": "BUSINESS MANAGEMENT"
+  },
+  {
+    "courseId": "1003627",
+    "courseCode": "522241",
+    "courseName": "SURVEYING IN TRANSPORTATION AND LOGISTICS"
+  },
+  {
+    "courseId": "1007866",
+    "courseCode": "522359",
+    "courseName": "RESEARCH  METHODS  IN  TRANSPORTATION  AND  LOGISTICS"
+  },
+  {
+    "courseId": "1003657",
+    "courseCode": "522494",
+    "courseName": "TRANSPORTATION ENGINEERING AND LOGISTICS STUDY PROJECT"
+  },
+  {
+    "courseId": "1003925",
+    "courseCode": "523412",
+    "courseName": "EXPERT SYSTEMS"
+  },
+  {
+    "courseId": "1003925",
+    "courseCode": "523412",
+    "courseName": "EXPERT SYSTEMS"
+  },
+  {
+    "courseId": "1006555",
+    "courseCode": "524533",
+    "courseName": "EQUILIBRIUM-STAGED  SEPARATIONS"
+  },
+  {
+    "courseId": "1004296",
+    "courseCode": "524562",
+    "courseName": "PETROLEUM AND PETROCHEMICAL TECHNOLOGY"
+  },
+  {
+    "courseId": "1008194",
+    "courseCode": "524567",
+    "courseName": "PETROLEUM  AND  PETROCHEMICAL  TECHNOLOGY"
+  },
+  {
+    "courseId": "1003756",
+    "courseCode": "525455",
+    "courseName": "COMBUSTION"
+  },
+  {
+    "courseId": "1004760",
+    "courseCode": "528623",
+    "courseName": "SEMINAR III"
+  },
+  {
+    "courseId": "1003806",
+    "courseCode": "529314",
+    "courseName": "POWER SYSTEM LABORATORY I"
+  },
+  {
+    "courseId": "1003818",
+    "courseCode": "529326",
+    "courseName": "ENERGY CONSERVATION AND MANAGEMENT"
+  },
+  {
+    "courseId": "1009108",
+    "courseCode": "531361",
+    "courseName": "CHARACTERIZATION  TECHNIQUES  FOR  METALS  AND  ALLOYS"
+  },
+  {
+    "courseId": "1004167",
+    "courseCode": "531424",
+    "courseName": "ADVANCED METAL FORMING"
+  },
+  {
+    "courseId": "1008029",
+    "courseCode": "531477",
+    "courseName": "ENGLISH  WRITING  FOR  METALLURGICAL  ENGINEERS"
+  },
+  {
+    "courseId": "1004262",
+    "courseCode": "532451",
+    "courseName": "GREEN BUILDING TECHNOLOGY"
+  },
+  {
+    "courseId": "1005593",
+    "courseCode": "532578",
+    "courseName": "ENVIRONMENTAL  ENGINEERING  SEMINAR  IV"
+  },
+  {
+    "courseId": "1003701",
+    "courseCode": "533369",
+    "courseName": "TOOL ENGINEERING"
+  },
+  {
+    "courseId": "1003701",
+    "courseCode": "533369",
+    "courseName": "TOOL ENGINEERING"
+  },
+  {
+    "courseId": "1010141",
+    "courseCode": "535490",
+    "courseName": "FACTORY  PHYSICS  AND  LAYOUTS"
+  },
+  {
+    "courseId": "1004068",
+    "courseCode": "536406",
+    "courseName": "ADVANCED TOPICS IN AUTOMOTIVE ENGINEERING I"
+  },
+  {
+    "courseId": "1008051",
+    "courseCode": "536421",
+    "courseName": "FUEL  AND  COMBUSTION"
+  },
+  {
+    "courseId": "1004524",
+    "courseCode": "537202",
+    "courseName": "AIRCRAFT MATERIALS"
+  },
+  {
+    "courseId": "1004664",
+    "courseCode": "537451",
+    "courseName": "AVIATION MANAGEMENT SYSTEM"
+  },
+  {
+    "courseId": "1004360",
+    "courseCode": "538417",
+    "courseName": "UNDERGROUND MINING AND MINE DESIGN"
+  },
+  {
+    "courseId": "1008000",
+    "courseCode": "538499",
+    "courseName": "GEOLOGICAL  ENGINEERING  PROFESSIONAL  PROJECT"
+  },
+  {
+    "courseId": "1008000",
+    "courseCode": "538499",
+    "courseName": "GEOLOGICAL  ENGINEERING  PROFESSIONAL  PROJECT"
+  },
+  {
+    "courseId": "1006546",
+    "courseCode": "540300",
+    "courseName": "COMPUTER  FOR  BASIC  DESIGN"
+  },
+  {
+    "courseId": "1006625",
+    "courseCode": "540450",
+    "courseName": "ADVANCED  TOPICS  IN  PRODUCT  DESIGN  ENGINEERING  I"
+  },
+  {
+    "courseId": "1004811",
+    "courseCode": "551112",
+    "courseName": "CHEMISTRY FOR ENGINEERS LABORATORY"
+  },
+  {
+    "courseId": "1004811",
+    "courseCode": "551112",
+    "courseName": "CHEMISTRY FOR ENGINEERS LABORATORY"
+  },
+  {
+    "courseId": "1004854",
+    "courseCode": "551494",
+    "courseName": "MECHATRONICS ENGINEERING STUDY PROJECT"
+  },
+  {
+    "courseId": "1004967",
+    "courseCode": "551602",
+    "courseName": "ADVANCED NUMERICAL METHOD"
+  },
+  {
+    "courseId": "1005796",
+    "courseCode": "551629",
+    "courseName": "CAD/CAM/CAE"
+  },
+  {
+    "courseId": "1008262",
+    "courseCode": "551652",
+    "courseName": "INDUSTRIAL 4.0"
+  },
+  {
+    "courseId": "1009774",
+    "courseCode": "551765",
+    "courseName": "GRADUATE  CO-OPERATIVE  EDUCATION FOR  MECHATRONICS  ENGINEERING"
+  },
+  {
+    "courseId": "1009833",
+    "courseCode": "552603",
+    "courseName": "MEDICAL  INFORMATICS"
+  },
+  {
+    "courseId": "1007264",
+    "courseCode": "553612",
+    "courseName": "SEMINAR  AND  ENGINEERING  REPORT  PRESENTATION"
+  },
+  {
+    "courseId": "1008749",
+    "courseCode": "553631",
+    "courseName": "ADVANCED  TECHNOLOGIES IN  TRANSPORTATION  AND  LOGISTICS"
+  },
+  {
+    "courseId": "1008754",
+    "courseCode": "553636",
+    "courseName": "SUSTAINABLE  FREIGHT  TRANSPORT  MANAGEMENT"
+  },
+  {
+    "courseId": "1008756",
+    "courseCode": "553661",
+    "courseName": "PROJECT  FEASIBILITY"
+  },
+  {
+    "courseId": "1008747",
+    "courseCode": "553664",
+    "courseName": "PROJECT  MANAGEMENT"
+  },
+  {
+    "courseId": "1007166",
+    "courseCode": "571714",
+    "courseName": "ADVANCED  METAL  FORMING"
+  },
+  {
+    "courseId": "1007292",
+    "courseCode": "573631",
+    "courseName": "EARTHQUAKE-RESISTANT  DESIGN"
+  },
+  {
+    "courseId": "1007324",
+    "courseCode": "573663",
+    "courseName": "TRANSPORTATION  SAFETY"
+  },
+  {
+    "courseId": "1007368",
+    "courseCode": "573713",
+    "courseName": "SPECIAL  PROBLEMS  IN  ADVANCED  CIVIL  ENGINEERING III"
+  },
+  {
+    "courseId": "1007750",
+    "courseCode": "574534",
+    "courseName": "INDUSTRIAL  SYSTEMS  ENGINEERING  SEMINAR I"
+  },
+  {
+    "courseId": "1007755",
+    "courseCode": "574553",
+    "courseName": "ADVANCED  WATER  AND  WASTEWATER  ANALYSIS"
+  },
+  {
+    "courseId": "1007656",
+    "courseCode": "575823",
+    "courseName": "DATA  MINING  APPLICATIONS"
+  },
+  {
+    "courseId": "1007665",
+    "courseCode": "575863",
+    "courseName": "NUMERICAL  METHODS  FOR  OPTIMIZATION  AND  NONLINEAR  EQUATIONS"
+  },
+  {
+    "courseId": "1007552",
+    "courseCode": "576634",
+    "courseName": "NEURAL  COMPUTING"
+  },
+  {
+    "courseId": "1007591",
+    "courseCode": "576752",
+    "courseName": "ELECTRIC  LOAD  FORECASTING  TECHNIQUES"
+  },
+  {
+    "courseId": "1007604",
+    "courseCode": "576769",
+    "courseName": "OPTICAL  AND  DIGITAL  HOLOGRAPHY"
+  },
+  {
+    "courseId": "1001647",
+    "courseCode": "608501",
+    "courseName": "ANESTHESIOLOGY"
+  },
+  {
+    "courseId": "1008210",
+    "courseCode": "617105",
+    "courseName": "BASIC  ENVIRONMENTAL  HEALTH  SCIENCE"
+  },
+  {
+    "courseId": "1003518",
+    "courseCode": "617351",
+    "courseName": "INDUSTRIAL AND HAZARDOUS WASTE MANAGEMENT"
+  },
+  {
+    "courseId": "1003519",
+    "courseCode": "617496",
+    "courseName": "SPECIFIC TOPICS IN ENVIRONMENTAL POLLUTION SCIENCE AND HEALTH"
+  },
+  {
+    "courseId": "1003520",
+    "courseCode": "617497",
+    "courseName": "ENVIRONMENTAL HEALTH FIELD TRAINING"
+  },
+  {
+    "courseId": "1002425",
+    "courseCode": "618101",
+    "courseName": "BASIC OCCUPATIONAL HEALTH AND SAFETY"
+  },
+  {
+    "courseId": "1008211",
+    "courseCode": "618102",
+    "courseName": "BASIC  OCCUPATIONAL  HEALTH  AND  SAFETY"
+  },
+  {
+    "courseId": "1006234",
+    "courseCode": "618498",
+    "courseName": "CHEMICAL  SAFETY"
+  },
+  {
+    "courseId": "1005260",
+    "courseCode": "704303",
+    "courseName": "PEDIATRIC AND ADOLESCENT NURSING PRACTICUM"
+  },
+  {
+    "courseId": "1005260",
+    "courseCode": "704303",
+    "courseName": "PEDIATRIC AND ADOLESCENT NURSING PRACTICUM"
+  },
+  {
+    "courseId": "1005260",
+    "courseCode": "704303",
+    "courseName": "PEDIATRIC AND ADOLESCENT NURSING PRACTICUM"
+  },
+  {
+    "courseId": "1005260",
+    "courseCode": "704303",
+    "courseName": "PEDIATRIC AND ADOLESCENT NURSING PRACTICUM"
+  },
+  {
+    "courseId": "1005260",
+    "courseCode": "704303",
+    "courseName": "PEDIATRIC AND ADOLESCENT NURSING PRACTICUM"
+  },
+  {
+    "courseId": "1005260",
+    "courseCode": "704303",
+    "courseName": "PEDIATRIC AND ADOLESCENT NURSING PRACTICUM"
+  },
+  {
+    "courseId": "1005260",
+    "courseCode": "704303",
+    "courseName": "PEDIATRIC AND ADOLESCENT NURSING PRACTICUM"
+  },
+  {
+    "courseId": "1005260",
+    "courseCode": "704303",
+    "courseName": "PEDIATRIC AND ADOLESCENT NURSING PRACTICUM"
+  },
+  {
+    "courseId": "1005260",
+    "courseCode": "704303",
+    "courseName": "PEDIATRIC AND ADOLESCENT NURSING PRACTICUM"
+  },
+  {
+    "courseId": "1005265",
+    "courseCode": "705305",
+    "courseName": "FAMILY NURSING AND MIDWIFERY PRACTICUM II"
+  },
+  {
+    "courseId": "1005265",
+    "courseCode": "705305",
+    "courseName": "FAMILY NURSING AND MIDWIFERY PRACTICUM II"
+  },
+  {
+    "courseId": "1005265",
+    "courseCode": "705305",
+    "courseName": "FAMILY NURSING AND MIDWIFERY PRACTICUM II"
+  },
+  {
+    "courseId": "1005265",
+    "courseCode": "705305",
+    "courseName": "FAMILY NURSING AND MIDWIFERY PRACTICUM II"
+  },
+  {
+    "courseId": "1005265",
+    "courseCode": "705305",
+    "courseName": "FAMILY NURSING AND MIDWIFERY PRACTICUM II"
+  },
+  {
+    "courseId": "1005265",
+    "courseCode": "705305",
+    "courseName": "FAMILY NURSING AND MIDWIFERY PRACTICUM II"
+  },
+  {
+    "courseId": "1005265",
+    "courseCode": "705305",
+    "courseName": "FAMILY NURSING AND MIDWIFERY PRACTICUM II"
+  },
+  {
+    "courseId": "1005265",
+    "courseCode": "705305",
+    "courseName": "FAMILY NURSING AND MIDWIFERY PRACTICUM II"
+  },
+  {
+    "courseId": "1005265",
+    "courseCode": "705305",
+    "courseName": "FAMILY NURSING AND MIDWIFERY PRACTICUM II"
+  },
+  {
+    "courseId": "1005266",
+    "courseCode": "705306",
+    "courseName": "FAMILY NURSING AND MIDWIFERY PRACTICUM III"
+  },
+  {
+    "courseId": "1005266",
+    "courseCode": "705306",
+    "courseName": "FAMILY NURSING AND MIDWIFERY PRACTICUM III"
+  },
+  {
+    "courseId": "1005266",
+    "courseCode": "705306",
+    "courseName": "FAMILY NURSING AND MIDWIFERY PRACTICUM III"
+  },
+  {
+    "courseId": "1005266",
+    "courseCode": "705306",
+    "courseName": "FAMILY NURSING AND MIDWIFERY PRACTICUM III"
+  },
+  {
+    "courseId": "1005266",
+    "courseCode": "705306",
+    "courseName": "FAMILY NURSING AND MIDWIFERY PRACTICUM III"
+  },
+  {
+    "courseId": "1005266",
+    "courseCode": "705306",
+    "courseName": "FAMILY NURSING AND MIDWIFERY PRACTICUM III"
+  },
+  {
+    "courseId": "1005266",
+    "courseCode": "705306",
+    "courseName": "FAMILY NURSING AND MIDWIFERY PRACTICUM III"
+  },
+  {
+    "courseId": "1005266",
+    "courseCode": "705306",
+    "courseName": "FAMILY NURSING AND MIDWIFERY PRACTICUM III"
+  },
+  {
+    "courseId": "1005266",
+    "courseCode": "705306",
+    "courseName": "FAMILY NURSING AND MIDWIFERY PRACTICUM III"
   }
 ]
