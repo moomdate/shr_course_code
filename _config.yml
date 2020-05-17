@@ -1,5 +1,5 @@
 future: true
 cors:
   origins: "localhost"
-  allowedHeaders: "Origin"
+  allowedHeaders: "authorization"
   allowedMethods: "HEAD"
