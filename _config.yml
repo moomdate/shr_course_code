@@ -2,4 +2,6 @@ future: true
 cors:
   origins: "localhost"
   allowedHeaders: "authorization"
-  allowedMethods: "HEAD"
+  allowedMethods: 
+             - "HEAD"
+             - "GET"
