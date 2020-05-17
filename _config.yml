@@ -1,4 +1,5 @@
 future: true
 cors:
-  origins: "*"
-  allowedHeaders: "Authorization,X-Requested-With,Content-Type,Accept,Origin"
+  origins: "localhost"
+  allowedHeaders: "Origin"
+  allowedMethods: "HEAD"
